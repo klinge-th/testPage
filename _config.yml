@@ -1,0 +1,4 @@
+name: test pages
+markdown: redcarpet
+highlighter: pygment
+baseurl: .\TestKrams
